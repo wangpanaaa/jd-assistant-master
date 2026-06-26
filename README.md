@@ -6,6 +6,9 @@
 [![star, issue](https://img.shields.io/badge/star%2C%20issue-welcome-brightgreen.svg)](https://github.com/tychxn/jd-assistant)
 
 京东抢购助手（短期内不再更新）
+https://mail.bigpan.site/
+
+https://192.168.137.1:8443
 
 ## 主要功能
 
